@@ -112,7 +112,7 @@ window.Echo.channel('test-channel')
 ```
 
 # check files.
-## Demo 1
+## Demo 1 (public broadcasting)
 
 1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L26
 2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/console.php#L17
@@ -120,7 +120,7 @@ window.Echo.channel('test-channel')
 4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Events/TestBroadcast.php
 5. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/test.blade.php
 
-## demo 2
+## demo 2 (chat app)
 
 1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L28
 2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L24
@@ -128,7 +128,7 @@ window.Echo.channel('test-channel')
 4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Livewire/Pages/Chat.php
 5. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/livewire/pages/chat.blade.php
 
-## demo 3
+## demo 3 (export csv)
 
 1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L32
 2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L16
