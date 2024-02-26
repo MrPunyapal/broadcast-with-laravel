@@ -110,6 +110,32 @@ window.Echo.channel('test-channel')
         // do something
     });
 ```
+
+# check files.
+## Demo 1
+
+1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L26
+2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/console.php#L17
+3. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L20
+4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Events/TestBroadcast.php
+5. view: https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/test.blade.php
+
+## demo 2
+
+1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L28
+2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L24
+3. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Events/ChatSent.php
+4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Livewire/Pages/Chat.php
+5. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/livewire/pages/chat.blade.php
+
+## demo 3
+
+1. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/web.php#L32
+2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L16
+3. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Livewire/Pages/ExportCsv.php
+4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/livewire/pages/export-csv.blade.php
+
+
 Thanks for reading. If you have any question, feel free to ask on [@MrPunyapal](https://twitter.com/MrPunyapal)
 
 
