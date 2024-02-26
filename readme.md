@@ -118,7 +118,7 @@ window.Echo.channel('test-channel')
 2. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/console.php#L17
 3. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/routes/channels.php#L20
 4. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/app/Events/TestBroadcast.php
-5. view: https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/test.blade.php
+5. https://github.com/MrPunyapal/broadcast-with-laravel/blob/main/resources/views/test.blade.php
 
 ## demo 2
 
