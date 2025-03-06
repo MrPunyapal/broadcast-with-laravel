@@ -11,7 +11,7 @@
         "laravel/sanctum": "^3.3",
         "laravel/tinker": "^2.8",
         "livewire/livewire": "^3.4",
-        "livewire/volt": "^1.0",
+        "livewire/volt": "^1.7.0",
         "opcodesio/log-viewer": "^3.4",
         "pusher/pusher-php-server": "^7.2"
     },
